@@ -2,8 +2,8 @@
 /*
 Plugin Name: testprivateplugin
 Plugin URI: https://ChurchWeb.uk
-Description: Tester for auto updater from private gothiub repository
-Version: 0.0.1
+Description: Tester for auto updater from private githib repository
+Version: 0.0.2
 Author: ChurchWeb
 
 Author URI: https://ChurchWeb.uk
