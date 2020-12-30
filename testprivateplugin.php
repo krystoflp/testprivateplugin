@@ -20,6 +20,8 @@ $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 	'testprivateplugin'
 );
 
+//Optional: If you're using a private repository, specify the access token like this:
+$myUpdateChecker->setAuthentication('e3ec7722722afe04e67f8c566cce487517232668');
 
 //Optional: Enable github release functionality
 $myUpdateChecker->getVcsApi()->enableReleaseAssets();
