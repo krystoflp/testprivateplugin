@@ -3,7 +3,7 @@
 Plugin Name: testprivateplugin
 Plugin URI: https://ChurchWeb.uk
 Description: Tester for auto updater from private githib repository
-Version: 0.0.10
+Version: 0.0.11
 Author: ChurchWeb
 
 Author URI: https://ChurchWeb.uk
